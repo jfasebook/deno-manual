@@ -6,6 +6,8 @@ Ofrece por defecto características de seguridad de ejecución y un único ejecu
 
 Está construido sobre el motor V8 (como nodejs) usando `Rust` y `Tokio`.
 
+La web oficial está en https://deno.land/
+
 # Características
 
 - Seguridad por defecto. El acceso a ficheros, acceso a red o acceso a variables de entorno es necesario que se active de forma explícita.
